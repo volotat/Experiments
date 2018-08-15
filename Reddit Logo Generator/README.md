@@ -7,15 +7,16 @@ I views it as a great opportunity to demonstrate ability of [ConGAN](https://git
 It was slightly augmented by training on smaller dataset, cherry-picking some good results, slightly improving and than adding them up (last two rows).
 And here is kind of results what I've got:
 
-After that I created a small script called [run.py]() that combine this avatars with random background and text style to produce final result, that look like this:
-
+After that I created a small script called [run.py](run.py) that combine this avatars with random background and text style to produce final result, that look like this:  
+  
+![](big_img.png)
 
 
 
 ### Dependencies
-Keras 2.2.0
-PIL 5.0.0
-Numpy 1.14.2
+Keras 2.2.0  
+PIL 5.0.0  
+Numpy 1.14.2  
 
 ### Run
 Execute run.py
