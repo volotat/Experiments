@@ -6,7 +6,7 @@ I views it as a great opportunity to demonstrate ability of [ConGAN](https://git
 ![](dataset.png)
 
 It was slightly augmented by training on smaller dataset, cherry-picking some good results, slightly improving and than adding them up (last two rows).
-And here is kind of results what I've got:  
+And here are kind of results what I've got:  
 
 ![](results.png)
 
